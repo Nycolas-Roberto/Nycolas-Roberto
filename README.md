@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Olá meu nome é Nycolas e tenho 17 anos, gosto de desafios pois me sinto motivado e viciado em obter o sentimento de conquista. Hoje em dia estudo desenvolvimento Front-End e sempre aprendendo coisas novas todos os dias, no momento estou no 3° ano do ensino médio e meu nível de inglês é muito básico.
+Olá meu nome é Nycolas e tenho 17 anos, gosto de desafios pois me sinto motivado e viciado em obter o sentimento de conquista. Hoje em dia estudo desenvolvimento Front-End e sempre aprendendo coisas novas todos os dias, no momento estou no 3° ano do ensino médio e meu nível de inglês é básico.
 
 
 ## 🌐 Social:
