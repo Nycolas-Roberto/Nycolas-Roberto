@@ -14,4 +14,4 @@ Olá meu nome é Nycolas e tenho 17 anos, gosto de desafios pois me sinto motiva
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Nycolas-Roberto&icon=5&color=12)](https://visitcount.itsvg.in)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e8684a3a-f634-4439-8b8c-de4a558283eb/deploy-status)](https://app.netlify.com/sites/effortless-unicorn-a0759a/deploys)
+
