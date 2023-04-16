@@ -1,5 +1,5 @@
 # 🖐 Sobre Mim:
-Olá meu nome é Nycolas e tenho 17 anos, começei a estudar t.i aos meus 13 anos de idade e gosto de desafios pois me sinto motivado e viciado em obter o sentimento de conquista, hoje em dia estudo desenvolvimento Web e sempre aprendendo coisas novas em vídeos, cursos, livros, documentações e em grupos de programação.
+Olá meu nome é Nycolas e tenho 17 anos, começei a estudar T.I aos meus 13 anos de idade e gosto de desafios pois me sinto motivado e viciado em obter o sentimento de conquista, hoje em dia estudo desenvolvimento Web e sempre aprendendo coisas novas em vídeos, cursos, livros, documentações e em grupos de programação.
 
 
 ## 🌐 Redes Sociais:
