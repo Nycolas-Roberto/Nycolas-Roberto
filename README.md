@@ -2,7 +2,7 @@
 <hr>
 
 # 🖐 Sobre Mim:
-Sou uma pessoa sincera com propósitos e objetivos para cumprir na vida e por isso estou estudando e praticando desenvolvimento web. Atualmente tenho 17 anos e gosto de programar diariamente utilizando tecnologias como php e javascript.
+Sou uma pessoa sincera com propósitos e objetivos para cumprir na vida e por isso estou estudando e praticando desenvolvimento web. Atualmente tenho 16 anos e gosto de programar diariamente utilizando tecnologias como php e javascript.
 
 
 ## 🌐 Redes Sociais:
