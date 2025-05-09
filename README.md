@@ -6,11 +6,7 @@ Meu nome é Nycolas, atualmente tenho 18 anos com 3 anos de experiência na áre
 Algumas de minhas qualidades:
 - Sinceridade
 - Adaptável/Flexível
-- Persistente<br>
-Alguns de meus defeitos:
-- Orgulhoso
-- Intolerante
-- Insegurança
+- Persistente
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nycolasds)
