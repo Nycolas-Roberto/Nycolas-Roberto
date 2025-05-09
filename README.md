@@ -2,8 +2,15 @@
 <hr>
 
 # 🖐 Sobre Mim:
-Sou uma pessoa sincera com propósitos e objetivos para cumprir na vida e por isso estou estudando e praticando desenvolvimento web. Atualmente tenho 17 anos e gosto de programar diariamente utilizando tecnologias como php e javascript.
-
+Meu nome é Nycolas, atualmente tenho 18 anos com 3 anos de experiência na área de programação, segurança da informação e sou formado em Técnico em Informática.
+Algumas de minhas qualidades:
+- Sinceridade
+- Adaptável/Flexível
+- Persistente
+Alguns de meus defeitos:
+- Orgulhoso
+- Intolerante
+- Insegurança
 
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nycolasds)
