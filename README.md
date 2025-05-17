@@ -2,7 +2,7 @@
 <hr>
 
 # 🖐 Sobre Mim:
-Meu nome é Nycolas, atualmente tenho 18 anos com 3 anos de experiência na área de programação, segurança da informação e sou formado em Técnico em Informática.<br>
+Meu nome é Nycolas, atualmente tenho 18 anos com 2 anos de experiência na área de programação, segurança da informação e sou formado em Técnico em Informática.<br>
 Algumas de minhas qualidades:
 - Sinceridade
 - Adaptável/Flexível
